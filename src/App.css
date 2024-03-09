@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: lightblue;
+}
+
+.hold{
+  width: 100vw;
+  min-height: 100vh;
+  background: lightgreen;
+  display: flex;
+  
+}
+
+.left{
+  width: 50vw;
+  height: 100vh;
+  background: lightblue;
+}
+.right{
+  width: 50vw;
+  height: 100vh;
+  background: hotpink;
+}
+Canvas{
+  width: 100%;
+  height: 100%;
+  background:lightcyan;
+ 
+}
